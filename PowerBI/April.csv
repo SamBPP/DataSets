@@ -1,0 +1,20 @@
+Payroll Run Date,Reference,Paid To,Description,Payment Amount,Payment Type
+24/04/2020,EXS001,Taylor AE,Net Salary,"£93,904",EMP
+24/04/2020,EXS002,Smith F,Net Salary,"£75,610",EMP
+24/04/2020,EXS003,Wilson PG,Net Salary,"£25,965",EMP
+24/04/2020,EXS004,Osborne S,Net Salary,"£33,892",EMP
+24/04/2020,EXS005,Miller R,Net Salary,"£29,113",EMP
+24/04/2020,EXS006,Andrews MS,Net Salary,"£35,113",EMP
+24/04/2020,EXS007,Phillips KE,Net Salary,"£20,970",EMP
+24/04/2020,EXS008,Matthews B,Net Salary,"£8,537",EMP
+24/04/2020,EXS009,Brown JT,Net Salary,"£8,537",EMP
+24/04/2020,EXS010,Lewis I,Net Salary,"£8,537",EMP
+24/04/2020,EXS011,Newport GD,Net Salary,"£4,950",EMP
+24/04/2020,EXS012,Williams VS,Net Salary,"£4,950",EMP
+24/04/2020,EXS013,East WD,Net Salary,"£4,950",EMP
+24/04/2020,TAX,HMRC,PAYE,"£109,470",DC
+24/04/2020,UIF,HMRC,UIF,"£2,790",DC
+24/04/2020,PENS,Asset Management,Pension Fund,"£65,028",DC
+24/04/2020,M-AID,MediPharm,Medical Aid,"£8,955",DC
+24/04/2020,LAPTOP,Journal,Laptop Repayment,"£1,200",DC
+24/04/2020,SDL,HMRC,SDL,"£5,147",DC
